@@ -1,0 +1,16 @@
+LOOPS:
+1. For Loop
+Expected: The program should use a for loop to print values.
+Actual: The for loop executed and printed values correctly.
+
+2. While Loop
+Expected: The program should use a while loop to repeat statements.
+Actual: The while loop worked correctly.
+
+3. Star Patterns
+Expected: The program should print a different star pattern.
+Actual: The pattern was displayed correctly.
+
+4. Multiplication Table
+Expected: The program should print the multiplication table of a number.
+Actual: The multiplication table was displayed correctly.
