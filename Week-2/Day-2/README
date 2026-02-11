@@ -1,0 +1,18 @@
+DICTIONARIES & SETS
+1. create student details using dictionary
+Actual Outcome: The program stored student details and displayed them properly.
+Expected Outcome: It should organize student information neatly using dictionary format.
+
+2. add, update & delete elements
+Actual outcome: I was able to add new items, update existing values, and delete items from the dictionary without any errors.
+Expected outcome: The program should help to easily change the dictionary data and show the final result after all operations.
+
+3. count word frquency using dictionary
+Actual outcome: The program counted how many times each word appeared in the sentence.
+Expected outcome: It should analyze the text and display the frequency of each word clearly.
+
+4. perform set operations:
+Actual outcome: All the set operations worked correctly and gave the right results.
+Expected outcome: The program should perform union, intersection, difference, and other set operations correctly.
+
+Final Outcome: All the programs ran successfully and helped me understand how dictionaries and sets are used in Python for storing data and performing operations.
