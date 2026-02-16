@@ -1,0 +1,17 @@
+***PYTHON LISTS & TUPLES
+Programs included:
+1. create and display a list-
+Expected Outcome: The program should create a list and display the elements.
+Actual Outcome: The list was created successfully and all elements were displayed correctly.
+
+2. find largest & smallest number in a list-
+Expected Outcome: The program should find the largest and smallest numbers in the list.
+Actual Outcome: The program correctly identified and displayed the largest and smallest values.
+
+3. sort list in ascending and descending order-
+Expected Outcome: The program should sort the list in ascending and descending order.
+Actual Outcome: The list was sorted correctly in both ascending and descending order.
+
+4. convert list to tuple-
+Expected Outcome: The program should convert a list into a tuple
+Actual Outcome: The list was successfully converted into a tuple and printed
