@@ -1,1 +1,33 @@
+DAY 3 – APPLYING CSS STYLING TO WEB PAGE
+
+# Task:
+Applied CSS to the existing HTML page to improve the appearance and layout of the webpage.
+
+# What I Did:
+  * Linked an external **style.css** file to the HTML page.
+  * Changed the background color of the page.
+  * Centered the main content using margin and alignment.
+  * Styled headings, paragraphs, and lists for better readability.
+  * Designed the table using borders, padding and colors.
+  * Centered the image and adjusted spacing between sections.
+  * Added simple hover effect for links.
+
+# Concepts Learned:
+  * How to use External CSS
+  * Linking CSS using <link> tag
+  * Using properties like:
+     - margin
+     - padding
+     - text-align
+     - background-color
+     - border
+  * Basic page layout and alignment
+  * Improving UI using simple styling techniques
+
+# Outcome:
+Successfully converted a plain HTML page into a neatly styled webpage using CSS while keeping the design simple and readable.
+
+# Files Used:
+   - index.html
+   - style.css
 
