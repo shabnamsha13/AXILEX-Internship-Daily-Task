@@ -1,0 +1,126 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Segoe UI, sans-serif;
+}
+body{
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background:#000;
+    color:#fff;
+}
+.app{
+    width:90%;
+    max-width:900px;
+    padding:20px;
+    border-radius:12px;
+    background:#111;
+    box-shadow:0 0 20px rgba(0,255,255,0.2);
+}
+
+h1{
+    text-align:center;
+    margin-bottom:18px;
+    color:#00e5ff;
+}
+section{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding:12px;
+    margin:10px 0;
+    border-radius:8px;
+    background:#1a1a1a;
+    border:1px solid #333;
+}
+section h2{
+    width:28%;
+    font-size:17px;
+    color:#00e5ff;
+}
+section input{
+    padding:8px;
+    width:150px;
+    border-radius:5px;
+    border:1px solid #444;
+    background:#000;
+    color:#fff;
+}
+section button{
+    padding:8px 16px;
+    border:none;
+    border-radius:20px;
+    background:#00e5ff;
+    color:#000;
+    font-weight:bold;
+    cursor:pointer;
+    transition:0.3s;
+}
+section button:hover{
+    background:#00bcd4;
+}
+#ans{
+    color:#00ff9c;
+    font-weight:bold;
+}
+section form{
+    display:flex;
+    align-items:center;
+    gap:10px;
+}
+#msg{
+    color:#ff4d4d;
+    font-size:14px;
+    margin-left:10px;
+}
+.form-section{
+    flex-direction:column;
+    align-items:flex-start;
+}
+.form-section h2{
+    margin-bottom:10px;
+}
+.form-column{
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+    width:250px;
+}
+.form-column input{
+    width:100%;
+}
+.form-section{
+    flex-direction:column;
+    align-items:stretch;  
+}
+.form-section h2{
+    text-align:left;
+    margin-bottom:12px;
+}
+.form-column{
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+    width:260px;
+    margin:0 auto;  
+}
+.form-section h2{
+    margin-bottom:12px;
+}
+.form-column{
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+    width:260px;
+}
+.form-column input{
+    width:100%;
+    padding:8px;
+}
+#msg{
+    margin-top:8px;
+    text-align:center;
+}
