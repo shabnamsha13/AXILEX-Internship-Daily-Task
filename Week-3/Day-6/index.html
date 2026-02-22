@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Interactive JS App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="app">
+    <h1>Interactive JavaScript Lab</h1>
+
+    <section>
+        <h2>Alert Message</h2>
+        <button onclick="showAlert()">Show Alert</button>
+    </section>
+
+    <section>
+        <h2 id="heading">Dynamic Text</h2>
+        <button onclick="changeText()">Update Text</button>
+    </section>
+    <section>
+        <h2>Quick Calculator</h2>
+        <input type="number" id="n1" placeholder="Enter number">
+        <input type="number" id="n2" placeholder="Enter number">
+        <button onclick="calc()">Calculate</button>
+        <p id="ans"></p>
+    </section>
+      <section class="form-section">
+    <h2>Form Validation</h2>
+
+    <form onsubmit="return validate()" class="form-column">
+        <input type="text" id="name" placeholder="Your Name">
+        <input type="email" id="email" placeholder="Your Email">
+        <input type="password" id="pass" placeholder="Password">
+        <button type="submit">Submit</button>
+    </form>
+    <p id="msg"></p>
+</section>
+       
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
