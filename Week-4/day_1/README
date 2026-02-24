@@ -5,4 +5,15 @@ TASK:
 *create basic backend project
 *run server on browser
 *display welcome message
-      
+
+how to install flask?
+step1: install flask-open terminal /command prompt and enter "pip install flask" command 
+
+step 2: create first flask application -file named app,py which contain code
+ *Flask(__name__)-creates flask app
+ *@app.route('/')- connects the home URL to a func
+ *func returns text 
+ *app.run()-starts the local server 
+
+step 3: run flask application using command python app.py and it will show the local server address, open this URL in browser to view.
+
