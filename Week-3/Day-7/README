@@ -4,29 +4,23 @@ MINI FRONTEND PROJECT:
 3 Login page
 4 Contact page
 ﻿
-🌙 Ramadan Wellness Planner
-﻿
-Description:
-This is a mini frontend project created using HTML, CSS and JavaScript.
-The website provides guidance for maintaining a healthy and productive routine during Ramadan.
-﻿
-Features:
-Multi-page website (Home, Join, Login, Contact)
-Ramadan daily routine suggestions
-Healthy Sehri and Iftar habits
-Hydration reminder (drink water sip-by-sip)
-Form validation using JavaScript
-Alert messages for user actions
-﻿
-Technologies Used:
-HTML5
-CSS3
-JavaScript
-﻿
+Ramadan wellness Planner:
+This is a small frontend project made with HTML, CSS, and JavaScript.
+The website gives tips on how to keep a healthy and productive routine during Ramadan.
+
+Characteristics:
+>Website with more than one page (Home, Join, Login, Contact)
+>Suggestions for a daily routine during Ramadan
+>Good habits for Sehri and Iftar
+>Reminder to drink water (sip by sip)
+>JavaScript for validating forms
+>Messages that tell users what to do
+
+Technologies Used: HTML5, JavaScript and CSS3
+
 How to Run:
-1. Open the project folder.
-2. Open the file named index.html by clicking it twice. Your browser will launch automatically.
-3. Navigate through the pages using the menu.
-﻿
-Outcome:
-Successfully developed a functional and themed frontend website demonstrating practical use of HTML, CSS and JavaScript.
+1. Go to the project folder.
+2. Click on the file called home.html twice to open it. Your browser will open on its own.
+3. Use the menu to move around the pages.
+
+Outcome: I was able to make a working and themed front-end website that showed how to use HTML, CSS, and JavaScript in real life.﻿
