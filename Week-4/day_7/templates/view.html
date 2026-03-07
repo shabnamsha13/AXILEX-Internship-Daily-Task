@@ -1,7 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Add Record</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+</head>
+<body>
 <h2>All Records</h2>
-
 <a href="/add">Add New</a><br><br>
-
+    
 <table border="1">
 <tr>
 <th>ID</th>
@@ -21,5 +29,8 @@
 </td>
 </tr>
 {% endfor %}
-
 </table>
+</body>
+</html>
+
+
