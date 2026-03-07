@@ -92,7 +92,7 @@ def edit(id):
 
     if request.method == "POST":
         name = request.form["name"]
-        email = request.form["course"]
+        course = request.form["course"]
         cursor.execute("UPDATE records SET name=?, course=? WHERE id=?", (name, course, id))
         conn.commit()
         conn.close()
@@ -107,3 +107,4 @@ if __name__ == "__main__":
     connect_db().close()
 
     app.run(debug=True)
+
